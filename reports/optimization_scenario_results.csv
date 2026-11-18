@@ -1,0 +1,4 @@
+scenario,baseline_expected_late_orders,optimized_expected_late_orders,expected_late_orders_reduced,expected_risk_reduction_percent
+Current Operations,11695.12,11695.12,0.0,0.0
+Moderate Intervention,11695.12,10256.61,1438.51,12.3
+Aggressive Intervention,11695.12,8818.1,2877.02,24.6

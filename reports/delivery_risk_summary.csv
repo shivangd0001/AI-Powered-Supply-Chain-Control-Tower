@@ -1,0 +1,5 @@
+risk_category,total_orders,average_risk,average_order_value,percentage_of_orders
+Critical,3336,0.66,177.367,10.38
+High,10256,0.492,140.878,31.9
+Low,6915,0.135,132.486,21.51
+Medium,11643,0.301,133.99,36.21
